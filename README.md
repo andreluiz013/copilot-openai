@@ -18,6 +18,7 @@ O Copilot pode ser acessado diretamente pelo navegador ou integrado em ferrament
 - Faça login com sua conta da Microsoft.
 - Explore a interface e identifique as áreas de geração de conteúdo e interação.
 - Teste diferentes tipos de perguntas e comandos para entender melhor as capacidades do Copilot.
+
 2️⃣ Uso do Copilot para IA Generativa
 O Copilot pode ser utilizado para diversas finalidades, como:
 ✅ Geração de Textos – Produção de relatórios, resumos, descrições e respostas detalhadas.
@@ -25,6 +26,7 @@ O Copilot pode ser utilizado para diversas finalidades, como:
 ✅ Criação de Códigos – Desenvolvimento de scripts em Python, JavaScript e outras linguagens.
 ✅ Sugestões Estratégicas – Ajuda na formulação de e-mails, planos de negócios e conteúdos técnicos.
 ✅ Geração de Imagens – Criar ilustrações e gráficos a partir de descrições textuais.
+
 3️⃣ Refinamento e Ajustes
 Após receber uma resposta do Copilot, você pode:
 🔹 Pedir uma reformulação do conteúdo para um estilo mais formal ou descontraído.
@@ -32,11 +34,13 @@ Após receber uma resposta do Copilot, você pode:
 🔹 Solicitar um resumo ou expandir detalhes específicos.
 
 ## 🔹 Passo a Passo para Utilizar OpenAI
+
 1️⃣ Acesso à Plataforma OpenAI
 A OpenAI fornece modelos avançados como GPT, DALL·E e Whisper. Para acessar:
 - Vá até OpenAI e registre-se.
 - Entre na área de ferramentas e escolha o modelo desejado.
 - Se for desenvolvedor, consulte a documentação da API OpenAI.
+
 2️⃣ Experimentação de Modelos
 Os modelos da OpenAI oferecem funcionalidades variadas:
 ✅ GPT – Geração de textos, respostas inteligentes e suporte a programação.
@@ -50,6 +54,7 @@ Para DALL·E, siga os passos:
 - Descreva detalhadamente a imagem que deseja gerar.
 - Se necessário, forneça ajustes na cor, forma e estilo artístico.
 - Baixe e utilize a imagem criada no seu projeto.
+
 3️⃣ Integração com Aplicações
 Os modelos da OpenAI podem ser integrados em sistemas por meio da API. Para isso:
 - Acesse a documentação oficial da OpenAI API.
