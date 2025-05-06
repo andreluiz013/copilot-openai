@@ -21,10 +21,15 @@ O Copilot pode ser acessado diretamente pelo navegador ou integrado em ferrament
 
 2️⃣ Uso do Copilot para IA Generativa
 O Copilot pode ser utilizado para diversas finalidades, como:
+
 ✅ Geração de Textos – Produção de relatórios, resumos, descrições e respostas detalhadas.
+
 ✅ Otimização de Escrita – Reescrita de frases, aprimoramento de redação e ajustes de tom.
+
 ✅ Criação de Códigos – Desenvolvimento de scripts em Python, JavaScript e outras linguagens.
+
 ✅ Sugestões Estratégicas – Ajuda na formulação de e-mails, planos de negócios e conteúdos técnicos.
+
 ✅ Geração de Imagens – Criar ilustrações e gráficos a partir de descrições textuais.
 
 3️⃣ Refinamento e Ajustes
@@ -43,8 +48,11 @@ A OpenAI fornece modelos avançados como GPT, DALL·E e Whisper. Para acessar:
 
 2️⃣ Experimentação de Modelos
 Os modelos da OpenAI oferecem funcionalidades variadas:
+
 ✅ GPT – Geração de textos, respostas inteligentes e suporte a programação.
+
 ✅ DALL·E – Criação de imagens com IA a partir de descrições textuais.
+
 ✅ Whisper – Transcrição e reconhecimento de áudio avançado.
 Para GPT, siga os passos:
 - Insira uma pergunta ou solicitação detalhada.
@@ -65,7 +73,11 @@ Os modelos da OpenAI podem ser integrados em sistemas por meio da API. Para isso
 
 Com Copilot e OpenAI, é possível otimizar processos de escrita, criação de conteúdo e análise de informações. Ambas as ferramentas oferecem suporte intuitivo para quem deseja explorar IA Generativa sem necessidade de conhecimentos avançados em machine learning.
 🔹 Próximos passos:
+
 ✅ Testar diferentes estilos de interação com Copilot e OpenAI.
+
 ✅ Implementar sugestões em projetos e fluxos de trabalho.
+
 ✅ Integrar APIs para automação avançada e personalização de respostas.
+
 ✅ Explorar oportunidades em análise de dados, geração de relatórios e criatividade digital.
